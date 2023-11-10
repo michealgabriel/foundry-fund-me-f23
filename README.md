@@ -1,4 +1,8 @@
 
+# About
+
+This is a crowd sourcing blockchain app
+
 # Getting Started
 
 ## Requirements
